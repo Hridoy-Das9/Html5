@@ -1,0 +1,17 @@
+nav  ul  li{
+    display: inline-block;
+    margin-right: 20px;
+    
+}
+nav li a{
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+    margin-top: 500px;
+}
+.se{
+    text-align: justify;
+    font-size: large;
+    margin: 20px;
+}
